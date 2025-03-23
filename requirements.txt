@@ -7,3 +7,7 @@ langchain_anthropic
 langchain_huggingface
 langchain_openai
 pypdf
+dotenv
+bs4
+ipython
+pprintpp
