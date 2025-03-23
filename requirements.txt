@@ -1,0 +1,9 @@
+langchain-core
+langchain-community
+langchain_groq
+faiss-cpu
+langchain_google_genai 
+langchain_anthropic 
+langchain_huggingface
+langchain_openai
+pypdf
